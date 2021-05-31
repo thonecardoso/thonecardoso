@@ -12,7 +12,7 @@ Sobre mim:
         - PHP
         - SQL (PostgreSQL, MySQL)
         - Versionamento Git 
-        - Front-end (Bootstrap, Javascript, CSS3, HTML5);
+        - Front-end (Angular, Bootstrap, Javascript, Typescript, CSS3, HTML5);
     formação acadêmica:
         - Análise e Desenvolvimento de Sistemas
           IFTM - Paracatu-MG - 2018 a 2021
@@ -21,8 +21,9 @@ Sobre mim:
     aprendendo:
         - Spring Framework 
         - JPA Hibernate
+        - Asp.Net Core 5
         - Reactjs
-        - Typescript
+        
 ```
 Para entrar em contato comigo:
 
