@@ -5,13 +5,11 @@
 Sobre mim:
     nome: Thone Cardoso de Araujo
     idade: 31 anos
-    atuação: Full Stack Java Developer
+    atuação: Backend Developer
     competencias:
-        - C Linguagem de Programação 
+        - C#
         - Java e Java/Android Linguagens
-        - PHP
         - SQL (PostgreSQL, MySQL)
-        - Versionamento Git 
         - Front-end (Angular, Bootstrap, Javascript, Typescript, CSS3, HTML5);
     formação acadêmica:
         - Análise e Desenvolvimento de Sistemas
@@ -19,10 +17,7 @@ Sobre mim:
         - Engenharia Elétrica
           FINOM - Paracatu-MG - 2009 a 2013
     aprendendo:
-        - Spring Framework 
-        - JPA Hibernate
         - Asp.Net Core 5
-        - Reactjs
         
 ```
 Para entrar em contato comigo:
