@@ -7,7 +7,7 @@ Sobre mim:
     idade: 31 anos
     atuação: Backend Developer
     competencias:
-        - C#
+        - C# com .NET Core
         - Java e Java/Android Linguagens
         - SQL (PostgreSQL, MySQL)
         - Front-end (Angular, Bootstrap, Javascript, Typescript, CSS3, HTML5);
@@ -16,9 +16,7 @@ Sobre mim:
           IFTM - Paracatu-MG - 2018 a 2021
         - Engenharia Elétrica
           FINOM - Paracatu-MG - 2009 a 2013
-    aprendendo:
-        - Asp.Net Core 5
-        
+          
 ```
 Para entrar em contato comigo:
 
