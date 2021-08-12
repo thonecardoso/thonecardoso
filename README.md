@@ -5,7 +5,7 @@
 #### Sobre mim:
 Thone Cardoso de Araujo, 31 anos  
 Backend C#/.Net Developer na [VaiVoa](https://vaivoa.com "VaiVoa Homepage") 
-#### competencias:
+#### Competencias:
 - C# com .NET Core
 - EF Core
 - Java e Java/Android Linguagens
