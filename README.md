@@ -3,7 +3,7 @@
 
 
 #### Sobre mim:
-Thone Cardoso de Araujo, 31 anos  
+Thone Cardoso de Araujo, 32 anos  
 Backend C#/.Net Developer na [VaiVoa](https://vaivoa.com "VaiVoa Homepage") 
 #### Competencias:
 - C# com .NET Core
