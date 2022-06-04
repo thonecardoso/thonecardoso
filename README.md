@@ -4,12 +4,11 @@
 
 #### Sobre mim:
 Thone Cardoso de Araujo, 32 anos  
-Backend C#/.Net Developer na [VaiVoa](https://vaivoa.com "VaiVoa Homepage") 
+Backend C#/.Net Developer no [Modalmais](https://www.modalmais.com.br/ "Modalmais Homepage") 
 #### Competencias:
-- C# com .NET Core
+- C#/.NET
 - EF Core
-- Java e Java/Android Linguagens
-- SQL (PostgreSQL, MySQL)
+- SQL (PostgreSQL, MySQL, Sql Server, T-SQL)
 - Front-end (Angular, Bootstrap, Javascript, Typescript, CSS3, HTML5);
 #### Formação acadêmica:
 - [Análise e Desenvolvimento de Sistemas IFTM](https://iftm.edu.br "IFTM Homepage") - Paracatu-MG - 2018 a 2021
