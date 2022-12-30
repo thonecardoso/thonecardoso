@@ -20,7 +20,7 @@ Backend C#/.Net Developer no [Modalmais](https://www.modalmais.com.br/ "Modalmai
 <div>
   <a href="https://github.com/thonecardoso">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=thonecardoso&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonecardoso&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonecardoso&hide=Java&layout=compact"/>
 </div>
           
 
@@ -33,8 +33,6 @@ Para entrar em contato comigo:
   <a href="https://www.linkedin.com/in/thonecardoso" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   
-
-
   <a href="https://www.facebook.com/thone.cardoso" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" /></a>
 
