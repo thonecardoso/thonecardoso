@@ -3,13 +3,12 @@
 
 
 #### Sobre mim:
-Thone Cardoso de Araujo, 33 anos  
-Backend C#/.Net Developer no [Modalmais](https://www.modalmais.com.br/ "Modalmais Homepage") 
+Thone Cardoso de Araujo, 35 anos  
+Backend C#/.Net Developer com mais de 3 anos de experiência
 #### Competencias:
-- C#/.NET
-- EF Core
+- C#/.NET no Back
+- Angular e React.js no Front
 - SQL (PostgreSQL, MySQL, Sql Server, T-SQL)
-- Front-end (Angular, Bootstrap, Javascript, Typescript, CSS3, HTML5);
 #### Formação acadêmica:
 - [Análise e Desenvolvimento de Sistemas IFTM](https://iftm.edu.br "IFTM Homepage") - Paracatu-MG - 2018 a 2021
 - [Engenharia Elétrica
@@ -18,8 +17,6 @@ Backend C#/.Net Developer no [Modalmais](https://www.modalmais.com.br/ "Modalmai
 #### **Informações Adicionais 📈**
 
 <div>
-  <a href="https://github.com/thonecardoso">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=thonecardoso&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonecardoso&hide=Java&layout=compact"/>
 </div>
           
